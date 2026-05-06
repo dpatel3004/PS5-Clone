@@ -59,7 +59,12 @@ npm start
 The app will open at `http://localhost:3000`
 
 ## 📸 Screenshots
+<img width="1470" height="874" alt="Image" src="https://github.com/user-attachments/assets/dae4349b-3bef-441c-b67a-15b4c8c0f207" />
+<img width="1470" height="877" alt="Image" src="https://github.com/user-attachments/assets/d5125db8-837d-4548-a67d-935197876375" />
+<img width="1470" height="753" alt="Image" src="https://github.com/user-attachments/assets/4935ceed-44df-478d-b94e-a0f2451a9c99" />
 
+<img width="1189" height="819" alt="Image" src="https://github.com/user-attachments/assets/50c8df9a-325e-4068-949d-eab7c60d5b13" />
+<img width="1470" height="855" alt="Image" src="https://github.com/user-attachments/assets/57556b07-6603-4438-8cb5-4bdaee990db1" />
 
 ---
 
